@@ -15,7 +15,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://laracel-flax.vercel.app/",
         "APP_KEY": "base64:G5vqKR4Lnm6ZA7pgmtaPRX5ue0QnYiUUE38D3cxT8Yw=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
